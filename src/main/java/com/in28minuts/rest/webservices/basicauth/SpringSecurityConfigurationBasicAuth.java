@@ -1,4 +1,4 @@
-package com.in28minuts.rest.webservices.todo.security;
+package com.in28minuts.rest.webservices.basicauth;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.in28minuts.rest.webservices.todo.model;
+package com.in28minuts.rest.webservices.basicauth;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

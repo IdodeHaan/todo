@@ -1,6 +1,5 @@
-package com.in28minuts.rest.webservices.todo.controller;
+package com.in28minuts.rest.webservices.basicauth;
 
-import com.in28minuts.rest.webservices.todo.model.AuthenticationBean;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
